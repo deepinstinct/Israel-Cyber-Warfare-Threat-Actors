@@ -2,14 +2,15 @@
 #### _A growing summery of Cyber Operations perpetrated by Iran against Israel._
 
 - ### [2017 April. 19 - 24](https://blog.morphisec.com/iranian-fileless-cyberattack-on-israel-word-vulnerability) 
-  > The Iranian APT group **OilRig** (aka APT34) targeted around 250 individuals in various sectors like government agencies, high-tech companies, medical sectors, and more.\
+  > The Iranian APT group **OilRig** (aka APT34) targeted around 250 individuals in various sectors like government, high-tech, medical, and more.\
   The attack was delivered through compromised email accounts at Ben-Gurion University and sent to multiple targets across Israel.
 
 - ### [2018 May](https://securelist.com/fanning-the-flames-viceleaker-operation/90877/)
   > A suspected Iranian threat actor named **ViceLeaker** (Linked to **Cotton Sandstorm**) targeted dozens of mobile devices belonging to Israeli citizens with a repackaged android app backdoor.
 
 - ### [2020 April. 24 - 25](https://www.timesofisrael.com/6-facilities-said-hit-in-irans-cyberattack-on-israels-water-system-in-april/)
-  > Unspecified Iranian hackers suspected of attacking 6 water facilities in Israel, and tried to modify the Chlorine levels into one of the reserves to cause water poisoning.
+  > Unknown Iranian threat actors are suspected of attacking six water facilities in Israel. \
+One of the facilities showed evidence of attempted tempering with the Chlorine level, a scenario that could've caused wide-scale water poisoning.
 
 - ### [2021 May - July](https://www.clearskysec.com/wp-content/uploads/2021/08/Siamesekitten.pdf)
   > An Iranian APT group named **Siamese Kitten** (Hexane/Lyceum) conducted a Spear-Phishing campaign against Israeli IT and communication companies using fake job offers.
