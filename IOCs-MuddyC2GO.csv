@@ -1,0 +1,38 @@
+Type,IP Address ,Description
+IP Address ,91.121.61[.]76,MuddyC2Go (2020)
+IP Address ,109.201.140[.]103,MuddyC2Go (2020)
+IP Address ,162.223.89[.]11,MuddyC2Go (2020)
+IP Address ,164.132.237[.]65,MuddyC2Go (2022)
+IP Address ,141.95.177[.]130,MuddyC2Go (2022) – (jbf1.nc1310022a[.]biz)
+IP Address ,91.121.240[.]108,MuddyC2Go (2022)
+IP Address ,137.74.131[.]18,MuddyC2Go (2023) – (qjk2.6nc051221c[.]co)
+IP Address ,137.74.131[.]20,MuddyC2Go (2023)
+IP Address ,45.150.64[.]239,MuddyC2Go (2023) – (microsoftfice.ddns[.]net)
+IP Address ,95.164.46[.]35,MuddyC2Go (2023) – (ghostrider.serveirc[.]com)
+IP Address ,45.67.230[.]91,MuddyC2Go (2023) – (Stark Industries)
+IP Address ,94.131.109[.]65,MuddyC2Go (2023) – (Stark Industries)
+IP Address ,185.248.144[.]158,Suspected MuddyC2Go (2023) – (Stark Industries) – (mbcaction.hopto[.]org)
+IP Address ,94.131.98[.]14,Suspected MuddyC2Go (2023) – (Stark Industries)
+IP Address ,45.150.64[.]23,Suspected MuddyC2Go (2023) – (Stark Industries)
+IP Address ,45.150.64[.]39,Suspected MuddyC2Go (2023) – (Stark Industries)
+IP Address ,95.164.38[.]99,Suspected MuddyC2Go (2023) – (Stark Industries)
+MD5,34212eb9e2af84eceb6a8234d28751b6,PowerShell response from 137.74.131[.]18
+MD5,3c6486dfb691fc6642f1d35bdf247b90,PowerShell response from 137.74.131[.]18
+MD5,55b99af81610eb65aabea796130a0462,PowerShell response from 137.74.131[.]18
+MD5,d7ca8f3b5e21ed56abf32ac7cb158a7e,PowerShell response from 137.74.131[.]18
+MD5,d3a2dee3bb8fcd8e8a0d404e7d1e6efb,PowerShell response from 137.74.131[.]20
+MD5,4a70b1e4cb57c99502d89cdbbed48343,PowerShell response from 137.74.131[.]20
+MD5,f08aa714fd59b68924843cbfddac4b15,PowerShell response from 137.74.131[.]20
+MD5,db0e68d7d81f5c21e6e458445fd6e34b,offtec.exe (C2: 45.150.64[.]239)
+MD5,dbcc0e9c1c6c1fff790caa0b2ffc2fe5,PowerShell script embedded in offtec.exe
+MD5,e07adc4ee768126dc7c7339f4cb00120,PowerShell response from 45.150.64[.]239
+MD5,feede05ba166a3c8668fe580a3399d8f,Performance.rar – Password protected archive
+MD5,9894b84916f9264d897fe3b4a83bc608,KorekFile.rar – Password protected archive
+MD5,9957250940377b39e405114f0a2fe84b,Performance/KorekFile.exe (C2: 95.164.46[.]35)
+MD5,245c3ed373727c21ad9ee862b767e362,PowerShell script embedded in Performance/KorekFile
+MD5,22971759adf816c6fb43104c0e1d89d6,PowerShell response from 95.164.46[.]35
+MD5,5e0cc23a6406930a40696594021edb5f,KorekPro.rar – Password protected archive
+MD5,79a638b2f2cc82bfe137f1d12534cda5,d.exe (C2: 95.164.46[.]35)
+MD5,fc523904ca6e191eb2fdb254a6225577,PowerShell script embedded in d.exe
+MD5,b867ec1cef6b1618a21853fb8cafd6e1,PowerShell response from 45.67.230[.]91 
+MD5,57641ce5af4482038c9ea27afcc087ee,PowerShell response from 94.131.109[.]65
