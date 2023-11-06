@@ -13,13 +13,18 @@ MD5,04afff1465a223a806774104b652a4f0,AdvancedMonitoringAgentInstaller
 MD5,6167f03c8b2734c20eb02d406d3ba651,DecoyDocument(defense-video.zip)
 MD5,e8f3ecc0456fcbbb029b1c27dc1faad0,attachments.zip
 MD5,952cc4e278051e349e870aa80babc755,DecoyDocument(attachments.zip)
+MD5,ea026027f283e7e16389853642635fc0,Opti tune installer
+MD5,08802238e1c7efac1c664b3e81bb2a85,Opti tune installer
+MD5,eb66eecd7c9b6663e1c3636b4a23d376,Opti tune installer
+MD5,590753b3b08393c380f0c8519c693c12,Atera agent installer
+MD5,1f0b9aed4b2c8d958a9b396852a62c9d,Zipped SimpleHelp Remote Access Client Installer
 URL,ws.onehub[.]com/files/7f9dxtt6,URLtoArchiveofAteraAgent
 URL,a.storyblok[.]com/f/253959/x/b92ea48421/form.zip,URLtoArchiveofAteraAgent
 URL,a.storyblok[.]com/f/255988/x/5e0186f61d/questionnaire.zip,URLtoArchiveofAteraAgent
 URL,a.storyblok[.]com/f/259791/x/94f59e378f/questionnaire.zip,URLtoArchiveofSimpleHelp
-IP,146.70.149[.]61,MuddyWater’sSimpleHelpserver
-IP,146.70.124[.]102,SuspectedMuddyWater’sSimpleHelpserver
-IP,37.120.237[.]204,SuspectedMuddyWater’sSimpleHelpserver
-IP,37.120.237[.]248,SuspectedMuddyWater’sSimpleHelpserver
+IP,146.70.149[.]61,MuddyWaterâ€™sSimpleHelpserver
+IP,146.70.124[.]102,SuspectedMuddyWaterâ€™sSimpleHelpserver
+IP,37.120.237[.]204,SuspectedMuddyWaterâ€™sSimpleHelpserver
+IP,37.120.237[.]248,SuspectedMuddyWaterâ€™sSimpleHelpserver
 URL,a.storyblok[.]com/f/259837/x/21e6a04837/defense-video.zip,URLtoArchiveofAdvancedMonitoringAgent
 URL,a.storyblok[.]com/f/259791/x/91e2f5fa2f/attachments.zip,URLtoArchiveofAdvancedMonitoringAgent
