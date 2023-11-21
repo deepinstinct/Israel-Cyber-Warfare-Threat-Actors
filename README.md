@@ -35,7 +35,6 @@
 - ### [2023 Sep. 21](https://www.welivesecurity.com/en/eset-research/oilrigs-outer-space-juicy-mix-same-ol-rig-new-drill-pipes/)
   > The Iranian APT group **OilRig** (aka APT34, sometimes mixed with SiameseKitten) operated cyber espionage campaigns exclusively against Israeli organizations.\
   Presumably spread via Spear-Phishing and was mainly intended to steal sensitive information.
-	
 
 - ### [2023 Oct. 10](https://securityscorecard.com/research/israel-ics-cri/)
   > An pro-Iranian low-sophistication hacktivist group named **SiegedSec**, claimed that it had conducted a series of DDoS attacks against Industrial Controllers for critical infrastructure.
@@ -43,6 +42,14 @@
 - ### [2023 Oct. 19](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government) 
   > The Iranian **OilRig** cyber espionage group (aka APT34, Crambus) broke into computer networks in an unspecified country from the middle east (probably Israel, UAE or one of the other Gulf states) and collected data for 8 months. \
   The attackers collected sensitive information like passwords, files and even inspected USB packets.
+
+- ### [2023 Oct. 28](https://www.securityjoes.com/post/mission-data-destruction-a-large-scale-data-wiping-campaign-targeting-israel)
+  > The Iranian threat group **Moses Staff** Claimed in their [Telegram](https://t.me/moses_staff_se_17) channel that they have infiltrated and caused damage to Contel (an Israeli industrial automation company).\
+  Apart from that they have also claimed to have hacked 20 other companies and leaked IDF reservists information.
+  
+- ### [2023 Oct. 30](https://www.securityjoes.com/post/bibi-linux-a-new-wiper-dropped-by-pro-hamas-hacktivist-group)
+  > A destructive malware named BiBi Wiper was found attacking Linux computers (and [Windows](https://twitter.com/ESETresearch/status/1719437301900595444)) in an unspecified Israeli company.\
+  The attack was done by a hacktivist group named Krama (linked to **Moses Staff**), politically motivated due to it's destructive nature, and multiple mentions of BiBi (The nickname of the Israeli PM Benjamin Netanyahu).
 
 ## General Summary
 Iran has two known top-level agencies responsible for most of the cyber operations.
